@@ -1,0 +1,21 @@
+package br.com.fiap.strings;
+
+public class ExemploComparacaoEquals {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//declare duas strings
+		
+		
+		String nome = "Igot";
+		String sobrenome = "Santana";
+		
+		
+		
+		if(nome.equals(sobrenome)) {
+			System.out.println("O nome inteiro é:"+nome+sobrenome);
+		}
+	}
+
+}

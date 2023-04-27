@@ -1,0 +1,19 @@
+package br.com.fiap.strings;
+
+public class Exemplo9Substring {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+//		Este método recebe como parâmetros a posição inicial (inclui) e a
+//      posição final (exclui) do conjunto de caracteres a serem copiados da string original;
+
+		String stringE = "um; dois; tres; quatro";
+		
+		String numeroDois = stringE.substring(1, 2);
+		
+		System.out.println("Numero 2: " + numeroDois);
+
+	}
+
+}

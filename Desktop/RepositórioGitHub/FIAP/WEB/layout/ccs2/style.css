@@ -1,0 +1,17 @@
+th,td{
+    border: solid 1px;
+    padding: 10px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+
+tr:nth-child(even){
+    background-color: aliceblue;
+}
+
+tr:hover{
+    background-color: aqua;
+}

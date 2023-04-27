@@ -1,0 +1,10 @@
+package br.com.fiap.strings;
+
+public class Exemplo10ToUpperCase {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
