@@ -24,11 +24,11 @@ public class Exemplo9Substring {
 		//exibir nome 
 		
 		
-		String nome2 = nome.substring(0, nome.indexOf("r"));
+		String nome2 = nome.substring(4, nome.indexOf("r"));
 		
 		//exibir sobrenome
 
-		String nome3 = nome.substring(0, nome.indexOf("a"));
+		String nome3 = nome.substring(7, nome.indexOf("a"));
 		
 		
 		System.out.println("O nome é" + nome2 + " "+ nome3);
